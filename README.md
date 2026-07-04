@@ -32,5 +32,3 @@ Columns include: Release_Date, Title, Overview, Popularity, Vote_Count, Vote_Ave
 - `Netflix_Movie_Data_Analysis_EDA.ipynb` – Jupyter notebook with full EDA workflow
 - `README.md` – Project documentation
 
-## Author
-**Aafra Khan**
